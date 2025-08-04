@@ -24,7 +24,6 @@ Tools: Jupyter Notebooks, GitHub
 📫 How to Reach Me:
 
 Email: maderae1030@gmail.com
-
 LinkedIn: linkedin.com/in/emmanuel-madera
 
 
