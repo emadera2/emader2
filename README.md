@@ -13,13 +13,18 @@ Currently, I'm focusing on building machine learning models and diving deeper in
 
 
 🛠 Tech Stack:
+
 Languages: Python, Java
+
 Data Science: Pandas, NumPy, scikit-learn
+
 Tools: Jupyter Notebooks, GitHub
 
 
 📫 How to Reach Me:
+
 Email: maderae1030@gmail.com
+
 LinkedIn: linkedin.com/in/emmanuel-madera
 
 
